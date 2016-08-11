@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#2196F3</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#1976D2</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#BBDEFB</color>
+
+    <!-- Background color for the beaches category -->
+    <color name="category_beaches">#BBDEFB</color>
+
+    <!-- Background color for the islands category -->
+    <color name="category_islands">#BBDEFB</color>
+
+    <!-- Background color for the attractions category -->
+    <color name="category_attractions">#BBDEFB</color>
+
+</resources>

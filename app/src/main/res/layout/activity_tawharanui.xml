@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tawharanui"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguideapp.TawharanuiActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:scaleType="centerCrop" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.3"
+            android:padding="16dp"
+            android:text="@string/tawharanui_beach"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+    </ScrollView>
+
+</LinearLayout>

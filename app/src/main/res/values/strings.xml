@@ -1,0 +1,37 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Auckland, New Zealand</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_islands">Islands</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Description of Rangitoto Island [CHAR LIMIT=NONE] -->
+    <string name="rangitoto_island">Rangitoto Island is a volcanic island in the Hauraki Gulf near Auckland, New Zealand. The 5.5 km wide island is an iconic and widely visible landmark of Auckland with its distinctive symmetrical shield volcano cone rising 260 metres (850 ft) high over the Hauraki Gulf. Rangitoto is the most recent and the largest (2311 hectares) of the approximately 50 volcanoes of the Auckland volcanic field. It is separated from the mainland of Auckland\'s North Shore by the Rangitoto Channel. Since World War II it has been linked by a causeway to the much older, non-volcanic Motutapu Island.
+
+Rangitoto is Māori for \'Bloody Sky\', with the name coming from the full phrase Ngā Rangi-i-totongia-a Tama-te-kapua (\'The days of the bleeding of Tama-te-kapua\'). Tama-te-kapua was the captain of the Arawa waka (canoe) and was badly wounded on the island, at a (lost) battle with the Tainui iwi (tribe) at Islington Bay.</string>
+
+    <!-- Description for the Sky Tower[CHAR LIMIT=NONE] -->
+    <string name="sky_tower">The Sky Tower is an observation and telecommunications tower located at the corner of Victoria and Federal Streets in the Auckland CBD, Auckland City, New Zealand. It is 328 metres (1,076 ft) tall, as measured from ground level to the top of the mast, making it the tallest man-made structure in the Southern Hemisphere. It has become an iconic landmark in Auckland\'s skyline due to its height and unique design. \n\nThe tower is part of the SKYCITY Auckland casino complex, originally built in 1994–1997 for Harrah\'s Entertainment. The tower attracts an average of 1,150 visitors per day (over 415,000 per year).
+
+The Sky Tower has several upper levels that are accessible to the public:\n\n
+
+Level 50: Sky Lounge\n
+Level 51: Main Observation Deck\n
+Level 52: Orbit 360° Dining\n
+Level 53: The Sugar Club restaurant, SkyWalk and SkyJump\n
+Level 60: Sky Deck</string>
+
+    <!-- Description for Piha Beach [CHAR LIMIT=NONE] -->
+    <string name="piha_beach">Piha is a coastal settlement on the western coast of the Auckland Region in New Zealand with a population of 600. It is one of the most popular beaches in the area and a major day-trip destination for Aucklanders throughout the year, and especially in summer.\n\n
+
+    Piha is 39 kilometres west of Auckland city centre, on the Tasman Sea coast to the north of the Manukau Harbour, on the western edge of the Waitakere Ranges. Immediately to the north of Piha is Whites Beach, and immediately to the south is Mercer Bay; land access to both is only by foot. The nearest beaches accessible by road are Karekare to the south, and Anawhata to the north.</string>
+
+    <!-- Description of Tawharanui Beach [CHAR LIMIT=NONE] -->
+    <string name="tawharanui_beach">Tawharanui Beach</string>
+</resources>
