@@ -2,14 +2,17 @@
     <!-- Title for the application. [CHAR LIMIT=12] -->
     <string name="app_name">Auckland, New Zealand</string>
 
-    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <!-- Category name for beaches [CHAR LIMIT=20] -->
     <string name="category_beaches">Beaches</string>
 
-    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <!-- Category name for the islands [CHAR LIMIT=20] -->
     <string name="category_islands">Islands</string>
 
-    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
-    <string name="category_attractions">Attractions</string>
+    <!-- Category name for the attractions [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category name for the hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
 
     <!-- Description of Rangitoto Island [CHAR LIMIT=NONE] -->
     <string name="rangitoto_island">Rangitoto Island is a volcanic island in the Hauraki Gulf near Auckland, New Zealand. The 5.5 km wide island is an iconic and widely visible landmark of Auckland with its distinctive symmetrical shield volcano cone rising 260 metres (850 ft) high over the Hauraki Gulf. Rangitoto is the most recent and the largest (2311 hectares) of the approximately 50 volcanoes of the Auckland volcanic field. It is separated from the mainland of Auckland\'s North Shore by the Rangitoto Channel. Since World War II it has been linked by a causeway to the much older, non-volcanic Motutapu Island.
@@ -33,5 +36,73 @@ Level 60: Sky Deck</string>
     Piha is 39 kilometres west of Auckland city centre, on the Tasman Sea coast to the north of the Manukau Harbour, on the western edge of the Waitakere Ranges. Immediately to the north of Piha is Whites Beach, and immediately to the south is Mercer Bay; land access to both is only by foot. The nearest beaches accessible by road are Karekare to the south, and Anawhata to the north.</string>
 
     <!-- Description of Tawharanui Beach [CHAR LIMIT=NONE] -->
-    <string name="tawharanui_beach">Tawharanui Beach</string>
+    <string name="tawharanui_beach">Set on a remote peninsula, Tawharanui Regional Park boasts some of the Auckland region\'s most beautiful white sand beaches, rolling pastures, shingled bays, native coastal forest and regenerating wetlands.
+Tāwharanui is New Zealand\’s first open sanctuary integrating conservation, recreation and farming. Pest free habitat provides a safe home for threatened native wildlife. To help keep Tāwharanui free of pests please check your vehicle and belongings for stowaway pests before you visit. Dogs are prohibited at all times.</string>
+
+    <!-- Description of Orewa Beach [CHAR LIMIT=NONE] -->
+    <string name="orewa_beach">Orewa\'s long Pacific Ocean beach is a place for swimming, surfing and long, relaxing walks. The town centre has everything a visitor could need.
+Just half an hour north of Auckland\'s harbour bridge, the town of Orewa spreads inland from the edge of a magnificent three kilometre beach. It\'s a great destination if you like swimming, surfing, kayaking, windsurfing and kite surfing. For coastal views, you can\'t beat a stroll along the Millennium Walkway.
+
+Beyond the beach, entertainment possibilities include golf at Gulf Harbour, wine trails, hiking in regional parks, cycling, indoor skiing and thermal hot pools. Orewa has a comprehensive shopping centre and a wide selection of eating places. Accommodation is plentiful.</string>
+
+    <!-- Description of Kawau Island [CHAR LIMIT=NONE] -->
+    <string name="kawau_island">A day trip to Kawau Island is pure magic. Visit Governer Grey\'s mansion house, enjoy forest walks to old copper mines and swim at the beach.\n\n
+    Kawau Island was originally settled by early migrations of Maori people. From time to time tribes contested the right to live on the island, which was eventually abandoned in the 1820s after a particularly bloody skirmish during the musket wars.
+
+A manganese mine was established on the island in the 1840s; shortly after, copper was discovered by accident. Fascinating ruins of the underground seashore copper mine, a pumping engine house and a small smelter remain today.\n\n
+    Scenic hiking trails on the island range in length from half an hour to several hours duration, and are mostly easy walking. Many of the routes follow old tracks originating from Mansion House valley.</string>
+
+    <!-- Description of Waiheke Island [CHAR LIMIT=NONE] -->
+    <string name="waiheke_island">Waiheke is a haven of beautiful vineyards, olive groves and beaches, all just a 35-minute ferry ride from downtown Auckland.\n\n
+    In landscape, lifestyle and experience, Waiheke is a world away.
+
+Come for a visit and you\’ll find beautiful galleries and craft boutiques in this homeland of artists. There are plenty of places to enjoy a good coffee or a taste of New Zealand\'s fresh Pacific Rim cuisine. The island also boasts more than a dozen high-quality vineyards, many with relaxed restaurants onsite. Enjoy local wine while looking out over vine-covered valleys to the blue sea beyond.\n\n
+    The white sandy beaches at Oneroa, Palm Beach and Onetangi slope gently down into the Hauraki Gulf. They are perfect for swimming, kayaking, strolling along or having a picnic in the sun.\n\n
+
+If you\’re a walker, explore the island\’s trails which meander along cliff tops, down to the beaches and into cool enclaves of native forest. At the eastern end of the island the Stony Batter walkway leads you to a system of World War II gun emplacements and underground tunnels. The tunnels are open to the public, so bring a torch and a sense of adventure.\n\n
+
+There are many places to stay on Waiheke. Rent a beach house and wake up to the sound of the waves breaking on the beach or, if you\’re on a bit of a budget, there are a number of friendly backpacker hostels.\n\n
+
+Getting around is easy too. Catch one of the regular ferries that run to Waiheke from downtown Auckland. Once on the island, there are public buses and taxis, or you can hire a mountain bike, motor scooter or car. And if you\'ve already got a car or bike, you can bring it over with you on the ferry.</string>
+
+    <!-- Description of the Harbour Bridge [CHAR LIMIT=NONE] -->
+    <string name="bridge_climb">Bridge Climb\n
+The ONLY way to experience the Auckland Harbour Bridge by foot! Climb under, around, up and over one of Auckland\'s most iconic ladmarks on this 1.5hour personally guided tour with extensive commentary. Custom engineered walkways provide a safe, enjoyable and easy-going experience.
+Enjoy Auckand to the fullest with 360 degree views from the summit.\n\n
+
+Bungy Jump
+New Zealand\'s only ocean touch - touch it, get dunked - it\'s up to you! Equipped to offer ever Bungy Jump option, ankle tie, harness jump, tandem..you name it, we can do it. a 10 minute walk out to our jump pod offers exclusive access to the Auckland Harbour Bridge.</string>
+
+    <!-- Description of the Auckland City Viaduct [CHAR LIMIT=NONE] -->
+    <string name="viaduct">Located in the heart of Auckland City, Viaduct Harbour is amazing first class residential, commercial and entertainment area. Full of life during the daytime and nighttime, Viaduct Harbour is where Auckland city meets the ocean.\n\n
+
+Our Viaduct Harbour Marina caters to pleasure craft, super yachts and commercial vessels with 150 marina berths ranging in size up to 60 meters. New Zealand\’s largest marine service precinct, Westhaven, lies a short walk or boat ride to the west.\n\n
+
+Viaduct Harbour is host to many fabulous events including the past America\’s Cup defences, Louis Vuitton Regattas, the Volvo Round the World Race stopover in March 2012, the Auckland International Boatshow and New Zealand Fashion Week among many other fantastic events.\n\n
+
+Visitors can explore New Zealand\’s rich maritime history at the fascinating Voyager Maritime Museum, cruise the harbour on a luxury yacht, view the super yachts berthed in the harbour and enjoy the world class hospitality at the many delicious restaurants and bars that line the water\'s edge.
+
+We know that Viaduct Harbour is a very special place - come and see for yourself!</string>
+
+    <!-- Description of the Hilton Hotel [CHAR LIMIT=NONE] -->
+    <string name="hilton">Sleek rooms, gorgeous views, the perfect location - have it all at Hilton Auckland. Their waterfront hotel has sundecks, private balconies and walls of windows for views of the harbour you won\'t find anywhere else. They\'re a quick walk from the central business district and Quay Street restaurants, shops and nightlife. Their 24-hour concierge team is happy to set up sightseeing tours during your stay.</string>
+
+    <!-- Description of The Langham Hotel [CHAR LIMIT=NONE] -->
+    <string name="langham">Classic furnishings and a warm pastel colour palette create pleasant, relaxing spaces. Their signature amenities and contemporary conveniences offer a blend of refined indulgences. Experience elegant luxury only at The Langham, Auckland.</string>
+
+    <!-- Description of SKYCITY Grand Hotel [CHAR LIMIT=NONE] -->
+    <string name="skycity">The Skycity Grand Hotel Auckland has contemporary 5-star rooms and suites with views of Auckland Harbour and the city skyline. Guests enjoy award-winning restaurants, a bar, a fitness center and a luxurious day spa. Guests enjoy free Wi-Fi.\n\n
+
+The Skycity entertainment complex, featuring a 24-hour casino, Auckland\’s iconic Sky Tower, and more than 20 restaurants, cafes and bars, is right at the property\'s doorstep.\n\n
+
+The fully-equipped fitness center includes a 100 feet heated lap pool, a sauna and a hot tub. The East Day Spa offers a full range of facial and body treatments. Valet parking is available for an extra fee.\n\n
+
+Each room at the Skycity Grand Hotel Auckland includes a modern bathroom with bathrobes and a separate bathtub and shower. There is a flat-screen TV with in-house movies in every room.
+
+Gusto provides a delicious breakfast. Bellota, The Grill by Sean Connolly and Depot on Federal Street provide award-winning dining options.\n\n
+
+This is our guests\' favorite part of Auckland, according to independent reviews.\n\n
+
+This property is also rated for the best value in Auckland! Guests are getting more for their money when compared to other properties in this city.</string>
+
 </resources>

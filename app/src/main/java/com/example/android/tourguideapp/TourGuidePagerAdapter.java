@@ -35,9 +35,10 @@ public class TourGuidePagerAdapter extends FragmentPagerAdapter {
             return new BeachesFragment();
         } else if (position == 1) {
             return new IslandsFragment();
-        } else {
-            return new AttractionsFragment();
-        }
+        } else if (position == 2) {
+            return new SightsFragment();
+        } else
+            return new HotelsFragment();
     }
 
     @Override
@@ -46,13 +47,16 @@ public class TourGuidePagerAdapter extends FragmentPagerAdapter {
             return mContext.getString(R.string.category_beaches);
         } else if (position == 1) {
             return mContext.getString(R.string.category_islands);
+        } else if (position == 2) {
+            return mContext.getString(R.string.category_sights);
         } else {
-            return mContext.getString(R.string.category_attractions);
+            return mContext.getString(R.string.category_hotels);
         }
     }
 
+    // How many tabs do we have.
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 }

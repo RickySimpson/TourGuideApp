@@ -14,10 +14,9 @@ import java.util.ArrayList;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class AttractionsFragment extends Fragment {
+public class HotelsFragment extends Fragment {
 
-
-    public AttractionsFragment() {
+    public HotelsFragment() {
         // Required empty public constructor
     }
 
@@ -26,19 +25,16 @@ public class AttractionsFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.event_list, container, false);
 
-
         // Create a list of events
         final ArrayList<Event> events = new ArrayList<Event>();
-       // events.add(new Event("Sky Tower", R.drawable.ic_skytower));
-//        events.add(new Event("Harbour Bridge Climb", R.drawable.ic_harbourbridge));
-        events.add(new Event("Auckland City Viaduct", R.drawable.ic_auckland));
+        events.add(new Event("Hilton", R.drawable.ic_hilton));
+        events.add(new Event("The Langham", R.drawable.ic_langham));
+        events.add(new Event("SKYCITY Grand", R.drawable.ic_skycity));
 
-        EventAdapter adapter = new EventAdapter(getActivity(), events, R.color.category_islands);
+        EventAdapter adapter = new EventAdapter(getActivity(), events);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
-
         listView.setAdapter(adapter);
-
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
@@ -47,16 +43,18 @@ public class AttractionsFragment extends Fragment {
                 Event event = events.get(position);
 
                 if (position == 0) {
-                    Intent skyTowerIntent = new Intent(getActivity(), SkyTowerActivity.class);
-                    startActivity(skyTowerIntent);
+                    // Create an intent to take us to the HiltonActivity
+                    Intent hiltonIntent = new Intent(getActivity(), HiltonActivity.class);
+                    startActivity(hiltonIntent);
                 } else if (position == 1) {
-                    Intent bridgeIntent = new Intent(getActivity(), BridgeActivity.class);
-                    startActivity(bridgeIntent);
+                    // Create an intent to take us to the LanghamActivity
+                    Intent langhamIntent = new Intent(getActivity(), LanghamActivity.class);
+                    startActivity(langhamIntent);
                 } else if (position == 2) {
-                    Intent viaductIntent = new Intent(getActivity(), ViaductActivity.class);
-                    startActivity(viaductIntent);
+                    // Create an intent to take us to the SkycityActivity
+                    Intent skycityIntent = new Intent(getActivity(), SkycityActivity.class);
+                    startActivity(skycityIntent);
                 }
-
             }
         });
 

@@ -9,7 +9,7 @@ public class RangitotoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Set the content of the activity to use the activity_artists.xml layout file
+        // Set the content of the activity to use the activity_rangitoto.xml layout file
         setContentView(R.layout.activity_rangitoto);
 
 

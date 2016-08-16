@@ -8,6 +8,8 @@ public class KawauActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // Set the content of the activity to use the activity_kawau.xml layout file
         setContentView(R.layout.activity_kawau);
     }
 }

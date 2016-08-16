@@ -9,6 +9,7 @@ public class SkyTowerActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // Set the content of the activity to use the activity_skytower.xml layout file
         setContentView(R.layout.activity_skytower);
     }
 }
